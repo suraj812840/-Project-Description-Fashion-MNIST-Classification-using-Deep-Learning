@@ -1,0 +1,2 @@
+# -Project-Description-Fashion-MNIST-Classification-using-Deep-Learning
+This project involves building a deep learning model to classify clothing images using the Fashion MNIST datast. The dataset is a more challenging and realistic alternative to the traditional MNIST digit dataset, consisting of 70,000 grayscale images of 10 different clothing categories such as T-shirts, trousers, sneakers, and bags. Each image.
